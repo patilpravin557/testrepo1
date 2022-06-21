@@ -1,0 +1,10 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 1A34-23D0
+
+ Directory of C:\Users\patil\OneDrive\Documents\MygitProject
+
+21-06-2022  12:55    <DIR>          .
+21-06-2022  12:55    <DIR>          ..
+21-06-2022  12:55                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  423,612,370,944 bytes free
